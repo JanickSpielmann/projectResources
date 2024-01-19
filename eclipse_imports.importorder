@@ -1,0 +1,10 @@
+#Organize Import Order
+#Mon Jan 01 00:00:00 CEST 2024
+7=\#
+6=ch.*
+5=
+4=com
+3=org
+2=jakarta
+1=javax
+0=java
