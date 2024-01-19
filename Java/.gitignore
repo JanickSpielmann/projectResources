@@ -13,8 +13,6 @@ app/**/*.js.map
 node_modules/
 bower_components/
 
-# IDEs and editors
-.idea/
 
 # misc
 .sass-cache/
@@ -51,6 +49,7 @@ e2e/*.map
 .idea/**/contentModel.xml
 
 # Sensitive or high-churn files
+.idea/
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
