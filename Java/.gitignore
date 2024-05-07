@@ -421,6 +421,9 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 
+# Draw.io Desktop autosave temporary files
+~$*.bkp*
+
 # Click-Once directory
 publish/
 
